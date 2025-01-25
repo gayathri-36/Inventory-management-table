@@ -1,0 +1,68 @@
+.App {
+    font-family: Arial, sans-serif;
+    padding: 20px;
+  }
+  
+  h1 {
+    text-align: center;
+  }
+  
+  .filters {
+    margin-bottom: 20px;
+    text-align: center;
+  }
+  
+  .filters select,
+  .filters button {
+    margin-right: 10px;
+    padding: 10px;
+    cursor: pointer;
+  }
+  
+  .form {
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  .form input {
+    margin: 5px;
+    padding: 8px;
+    font-size: 14px;
+  }
+  
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+    text-align: left;
+  }
+  
+  table, th, td {
+    border: 1px solid #ddd;
+  }
+  
+  th, td {
+    padding: 10px;
+  }
+  
+  th {
+    background-color: #f4f4f4;
+  }
+  
+  button {
+    padding: 5px 10px;
+    font-size: 14px;
+    margin-left: 5px;
+    cursor: pointer;
+  }
+  
+  .low-stock {
+    background-color: #f8d7da;
+    color: #721c24;
+  }
+  
+  button:hover {
+    background-color: #0056b3;
+    color: white;
+  }
+  
